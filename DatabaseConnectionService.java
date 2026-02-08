@@ -60,8 +60,8 @@ public class DatabaseConnectionService {
 
     public boolean connect() {
         // Use Spring-injected properties if available, otherwise try Environment Variables
-        String userToUse = "bradshgc";
-        String passToUse = "hgs&Yxh?Lzq6tBdm";
+        String userToUse = password.user;
+        String passToUse = password.password;
 
         if (userToUse != null && passToUse != null) {
             return connect(userToUse, passToUse);
