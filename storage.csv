@@ -1,0 +1,201 @@
+string,string,string,string,string,int
+United States,Jacksonville,32209,NV,6 Larry Lane,6
+United States,Charleston,25362,NE,75 Sachtjen Court,2
+United States,San Antonio,78225,TX,55 Independence Park,6
+United States,Stockton,95205,,13946 Bobwhite Junction,6
+United States,Sacramento,95894,CO,338 Meadow Ridge Park,10
+United States,Columbia,29220,NE,9702 Hintze Road,3
+United States,Oklahoma City,73173,OK,67 Amoth Court,6
+United States,Houston,77090,IL,6003 Parkside Street,10
+United States,Tallahassee,32314,,94560 Eastwood Way,6
+United States,Rockford,61105,VT,782 Lien Pass,7
+United States,Madison,53716,WY,44864 Tony Center,1
+United States,Richmond,23272,,161 Westport Terrace,9
+United States,Pasadena,91131,UT,78473 Anderson Crossing,7
+United States,Tucson,85705,ME,90 Hoard Plaza,6
+United States,Terre Haute,47812,NJ,6 Cherokee Center,2
+United States,Grand Rapids,49510,WI,53 Spohn Center,2
+United States,Valdosta,31605,MI,72207 Onsgard Park,5
+United States,Jefferson City,65110,CA,6 Schlimgen Alley,5
+United States,Washington,20036,,5 Hermina Court,5
+United States,Littleton,80126,CT,16 Novick Terrace,1
+United States,Tyler,75710,NE,55 Lake View Junction,3
+United States,Toledo,43610,AZ,571 Fulton Street,10
+United States,Muskegon,49444,MS,972 Straubel Point,10
+United States,Honolulu,96805,AZ,4323 Roth Court,8
+United States,Shreveport,71161,TN,434 Kenwood Place,6
+United States,Great Neck,11024,,3 Jay Street,10
+United States,Anniston,36205,,86 Mosinee Hill,9
+United States,Des Moines,50369,,4 Rowland Circle,2
+United States,Washington,20575,,53 Westridge Circle,8
+United States,Tyler,75799,AL,28 Dryden Hill,5
+United States,Shawnee Mission,66205,ND,59778 Memorial Park,2
+United States,Brooklyn,11247,HI,14200 Morrow Alley,8
+United States,Bethlehem,18018,WI,4 Blue Bill Park Court,10
+United States,Santa Rosa,95405,,3857 Summit Crossing,1
+United States,Inglewood,90398,PA,47860 Bellgrove Junction,5
+United States,Vienna,22184,AR,2 Armistice Crossing,7
+United States,Cheyenne,82007,,7 Pepper Wood Avenue,9
+United States,El Paso,79934,NM,2066 Westport Lane,2
+United States,Birmingham,35215,MI,1 Shoshone Plaza,7
+United States,Canton,44710,TX,5512 Milwaukee Junction,5
+United States,Newark,19725,NM,8995 Merrick Point,4
+United States,Birmingham,35236,RI,04 8th Point,10
+United States,Buffalo,14276,IA,65181 Pawling Circle,7
+United States,Syracuse,13205,UT,0258 Oriole Crossing,2
+United States,Laurel,20709,NJ,9367 Elgar Center,8
+United States,San Diego,92170,CT,8 Hazelcrest Lane,2
+United States,Muskegon,49444,NH,0209 Moose Park,10
+United States,Minneapolis,55458,WA,54211 Vernon Road,1
+United States,Greensboro,27415,WI,03473 Huxley Parkway,10
+United States,Brooklyn,11210,KY,85025 Tony Way,10
+United States,Mobile,36641,AK,82325 Bonner Lane,7
+United States,Seattle,98109,NM,6291 Thompson Trail,2
+United States,Washington,20226,FL,252 Goodland Lane,4
+United States,Boise,83732,NM,30 Aberg Circle,7
+United States,Shreveport,71137,ID,2 Sullivan Street,8
+United States,Philadelphia,19146,VT,28449 Luster Way,10
+United States,Pensacola,32505,MN,67 Sachs Lane,9
+United States,Omaha,68134,NV,99 Dennis Hill,4
+United States,Honolulu,96850,CA,6034 Carey Road,5
+United States,Baton Rouge,70826,MT,045 Prairieview Avenue,6
+United States,Irvine,92619,NH,7 Bowman Court,6
+United States,Washington,20016,ME,689 Vermont Crossing,6
+United States,Kansas City,66160,NM,91 Warner Hill,6
+United States,Houston,77293,CT,088 Amoth Center,3
+United States,Palmdale,93591,AK,9814 Mosinee Avenue,6
+United States,Wilmington,19810,NH,52 Green Ridge Terrace,10
+United States,Young America,55573,LA,28 Porter Center,1
+United States,Memphis,38168,CA,67 Florence Court,8
+United States,Long Beach,90805,IA,40327 Meadow Ridge Court,3
+United States,Orange,92668,CO,79 Mcguire Trail,3
+United States,Pittsburgh,15274,AK,1185 Bobwhite Avenue,10
+United States,Philadelphia,19191,PA,7 Reinke Avenue,10
+United States,Dearborn,48126,LA,3 Pennsylvania Park,9
+United States,Grand Rapids,49544,WV,4135 Manufacturers Circle,5
+United States,Washington,20310,WA,90 Clemons Way,4
+United States,Humble,77346,WI,394 Towne Park,10
+United States,Phoenix,85067,AK,14 Northridge Drive,4
+United States,Dallas,75287,,55 Mosinee Lane,2
+United States,Tyler,75710,IL,7496 East Trail,9
+United States,Rockford,61105,GA,191 Arapahoe Avenue,5
+United States,Tampa,33615,MT,57 Stang Place,8
+United States,San Antonio,78278,SC,0067 Corry Terrace,8
+United States,Littleton,80126,WY,264 Main Crossing,4
+United States,Mobile,36670,TN,91763 Almo Park,6
+United States,Huntington,25775,PA,75900 Hovde Circle,2
+United States,Mesa,85215,SD,69268 Dahle Park,7
+United States,Atlanta,30358,IA,8302 Moland Way,7
+United States,Chattanooga,37416,OK,44 Sloan Crossing,10
+United States,High Point,27264,PA,74071 Chinook Pass,10
+United States,Huntington Beach,92648,CT,174 Golden Leaf Park,3
+United States,Dallas,75310,CT,36185 Waxwing Point,8
+United States,Roanoke,24048,AK,91202 Milwaukee Place,7
+United States,Charlotte,28230,KS,63212 Loeprich Park,8
+United States,Anaheim,92825,ID,122 Comanche Trail,2
+United States,Columbus,43220,WI,6 Crest Line Junction,7
+United States,Bethlehem,18018,NE,4 Lunder Avenue,1
+United States,Bethlehem,18018,ND,0 Miller Crossing,5
+United States,Fort Worth,76110,VT,825 Logan Parkway,9
+United States,Hollywood,33023,MD,5797 Heffernan Pass,1
+United States,Louisville,40298,WA,27156 Springs Road,8
+United States,Saint Joseph,64504,RI,0045 Nobel Junction,10
+United States,Anaheim,92825,NJ,57 Elgar Road,10
+United States,Ogden,84409,,25 Lien Junction,4
+United States,Rockford,61110,PA,96 Sugar Point,3
+United States,Carson City,89714,CO,69370 Melvin Lane,5
+United States,El Paso,88574,NH,36 Westridge Hill,9
+United States,San Antonio,78285,MO,8 Continental Street,10
+United States,Houston,77085,ME,35439 Oriole Plaza,8
+United States,Kansas City,66105,IN,2 Northwestern Road,7
+United States,Boston,02208,WY,44 Ronald Regan Alley,3
+United States,Springfield,65898,NE,2329 Dayton Place,8
+United States,New Orleans,70149,NC,71 Surrey Trail,10
+United States,Pittsburgh,15250,TX,46871 Melody Court,1
+United States,Houston,77260,GA,4764 Cordelia Junction,4
+United States,Shreveport,71105,ME,1729 Menomonie Lane,10
+United States,Humble,77346,NV,084 Hanson Terrace,7
+United States,New Haven,06510,OR,35 Anzinger Parkway,6
+United States,Jamaica,11480,KS,9 Sage Alley,9
+United States,Chicago,60663,OR,4 Independence Street,3
+United States,Las Cruces,88006,SC,84584 Carey Alley,8
+United States,Honolulu,96825,WV,36433 Judy Street,3
+United States,Lynchburg,24515,ME,0 Mendota Terrace,5
+United States,Portland,97211,AR,142 Eagle Crest Center,5
+United States,Charlotte,28299,NM,28 Pearson Drive,7
+United States,Shreveport,71115,GA,80571 Little Fleur Street,10
+United States,Huntsville,35895,PA,5 Hanover Drive,2
+United States,Omaha,68110,IA,843 Mayfield Court,7
+United States,West Palm Beach,33405,WY,83 Esker Avenue,4
+United States,Charlottesville,22908,OH,76234 Oak Valley Road,1
+United States,Indianapolis,46254,OR,5118 Bultman Circle,3
+United States,Sioux Falls,57105,OK,4955 American Point,10
+United States,Milwaukee,53263,AK,75222 Red Cloud Crossing,2
+United States,El Paso,79999,,2444 Welch Terrace,4
+United States,Houston,77075,,309 Kingsford Center,7
+United States,Sioux City,51105,ID,6324 Transport Trail,10
+United States,San Francisco,94110,IA,46787 Merrick Parkway,6
+United States,Salt Lake City,84125,AK,014 Parkside Court,5
+United States,Winter Haven,33884,AK,8 Pond Drive,10
+United States,Maple Plain,55572,TN,2011 Truax Court,9
+United States,Omaha,68105,AL,6650 Judy Crossing,10
+United States,Whittier,90610,VA,2 Warbler Street,3
+United States,Bryan,77806,TN,39 Dennis Center,8
+United States,Elmira,14905,OK,7 Portage Lane,10
+United States,Evansville,47737,CA,3 Pierstorff Lane,1
+United States,Bloomington,47405,NV,2834 Mariners Cove Circle,1
+United States,Phoenix,85072,WA,762 Milwaukee Crossing,4
+United States,Montgomery,36104,GA,416 Loftsgordon Park,9
+United States,Tyler,75799,UT,91638 Starling Pass,10
+United States,Fort Worth,76105,VT,07820 Cambridge Hill,4
+United States,Shreveport,71151,,3081 Arkansas Court,5
+United States,Lexington,40596,UT,46 Buena Vista Court,10
+United States,Baltimore,21275,MI,38172 Eagle Crest Way,1
+United States,Pittsburgh,15266,RI,481 Helena Plaza,3
+United States,Lansing,48912,NY,8264 Acker Place,5
+United States,Odessa,79764,GA,1 Golf Junction,3
+United States,Carson City,89714,NY,0 East Junction,8
+United States,New York City,10039,NJ,080 3rd Park,6
+United States,Tulsa,74193,NM,335 Union Road,3
+United States,Richmond,23285,WA,01 Lake View Park,2
+United States,Inglewood,90305,NM,1534 Nobel Plaza,4
+United States,Los Angeles,90071,OH,47 Scott Junction,1
+United States,Naples,34114,,04 Jenifer Center,7
+United States,Tampa,33661,NJ,76 Meadow Vale Drive,9
+United States,Chicago,60681,VA,49711 Cascade Lane,4
+United States,Fort Smith,72905,PA,1028 Mallard Alley,10
+United States,Los Angeles,90005,WV,01484 Tony Park,1
+United States,Newark,07195,OH,80443 Dennis Court,8
+United States,Chicago,60630,OR,9831 Green Court,5
+United States,Lancaster,93584,NM,5 Declaration Parkway,9
+United States,San Diego,92170,MA,27986 Porter Point,2
+United States,Omaha,68110,MD,66609 Stoughton Court,1
+United States,Wilkes Barre,18706,AR,7 Sloan Drive,5
+United States,Minneapolis,55417,ID,7777 Arizona Avenue,10
+United States,Raleigh,27635,IA,6 Grover Trail,5
+United States,Beaufort,29905,,82 Quincy Park,3
+United States,New Orleans,70187,MD,8459 Schurz Place,5
+United States,Nashville,37245,MS,4910 Forest Run Avenue,5
+United States,Boston,02283,OK,4757 Blue Bill Park Place,6
+United States,Charleston,29424,HI,5340 Buena Vista Park,4
+United States,Montgomery,36177,MA,00575 Carioca Alley,2
+United States,San Bernardino,92415,KY,78 Brickson Park Alley,5
+United States,Pensacola,32505,AZ,54 Anhalt Trail,10
+United States,Saint Louis,63150,ID,56 Derek Circle,10
+United States,Erie,16550,MD,119 Muir Terrace,3
+United States,Englewood,80150,MD,60 Columbus Plaza,2
+United States,Knoxville,37914,RI,2 Talisman Street,3
+United States,Evansville,47732,CO,8 Mesta Street,4
+United States,Omaha,68144,MD,532 Alpine Street,8
+United States,Jacksonville,32255,AZ,63065 Butternut Junction,9
+United States,San Francisco,94154,IA,0 Twin Pines Drive,2
+United States,Sparks,89436,KY,44 Roth Plaza,9
+United States,San Antonio,78278,LA,037 Starling Park,8
+United States,Saint Louis,63126,OR,8252 Vidon Street,1
+United States,Columbus,43220,,25796 Doe Crossing Road,8
+United States,Fort Wayne,46896,NJ,13801 Shasta Hill,3
+United States,New Bedford,02745,,4856 Anderson Point,10
+United States,Orlando,32830,AR,997 Jackson Street,1
+United States,Spartanburg,29305,IN,6 7th Parkway,4
+United States,Fort Pierce,34981,VA,1452 Main Circle,6
+United States,Baltimore,21281,OR,0 Gulseth Place,10
